@@ -1,4 +1,4 @@
-# question
+# 
 #recursive approach
 numTerms = int(input("How many terms of Fibonacci squence to print?"))
 
